@@ -1,0 +1,1 @@
+Node created a file!hello this a friend of node
